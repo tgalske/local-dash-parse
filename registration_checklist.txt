@@ -1,0 +1,42 @@
+
+DWPROD
+	Degree in Bachelor of Science	
+Catalog Year:	  2015-2016	Credits Required:	  120
+GPA:	  3.953	 	 
+Still Needed:	See Major in Computer Science section 
+	Foundation	
+ 	 
+ 	 
+	Distribution: Breadth	
+ 	 
+ 	 
+	Pathway: Quantitative Studies	
+ 	 
+ 	 
+	Skill Requirement	
+ 	 
+ 	 
+	Major in Computer Science	
+Catalog Year:	  2015-2016
+GPA:	  3.952
+Still Needed:	See Concentration in Software Development section
+	Concentration in Software Development	
+Catalog Year:	  2015-2016	Credits Required:	  67
+GPA:	  3.952	Credits Applied:	  60
+Still Needed:	Choose from 2 of the following:
+                 	 ( Choose from 1 of the following: ) and
+                 	 ( 1 Class in CMPT 424L* ) or
+                 	 ( 1 Class in CMPT 432L* )
+                 	 ( Choose from 1 of the following: )
+                 	 ( 1 Class in CMPT 333L* ) or
+                 	 ( 1 Class in CMPT 331L* or 424L* or 432L* or 440L* )
+	Minor in Cybersecurity	
+Catalog Year:	  2016-2017	Credits Required:	  23
+GPA:	  3.896	Credits Applied:	  23
+	Minor in Information Technology	
+Catalog Year:	  2016-2017	Credits Required:	  24
+GPA:	  3.950	Credits Applied:	  24
+	Minor in Information Systems	
+Catalog Year:	  2016-2017	Credits Required:	  23
+GPA:	  3.948	Credits Applied:	  23
+
