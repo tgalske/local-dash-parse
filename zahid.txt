@@ -1,0 +1,222 @@
+
+Student View    AB218Sp7 as of 28-Aug-2018 at 22:37		
+Student	Mudaqiq, Mohammad Zahid	Level	Undergraduate
+ID	20067857	Degree	B.S.  
+Classification	Senior  	College	Computer Science & Mathematics
+Advisor	Algozzine, Christopher J 	Major	Info Tech and Systems
+Overall GPA	3.5	Minors	Cybersecurity
+Computer Science
+Information Systems
+Student Type	Traditional Continuing	Concentration	IT Technology - IT Conc
+Term Location	Poughkeepsie		
+
+Degree Progress
+Requirements	
+94%
+ 
+
+Credits	
+88%
+ 
+
+
+Not yet complete	Degree in Bachelor of Science	
+Academic Year:	  2015-2016	Credits Required:	  120
+GPA: 3.5	  	Credits Applied:	  105
+Complete		Last 30 Credits At Marist
+Complete		Mimimum Liberal Art Credits
+Not yet complete		Minimum Degree Credits
+Still Needed:	120 CREDITS ARE REQUIRED. YOU CURRENTLY HAVE 105, (INCLUDING BOTH EARNED AND IN PROGRESS COURSES) YOU STILL NEED 15 ADDITIONAL CREDITS. COURSES THAT APPEAR TWICE ON THE AUDIT ARE ONLY COUNTED ONCE TOWARD THIS REQUIREMENT.
+Complete		Minimum GPA
+Complete		2.0 GPA Requirement
+Complete		Foundation
+Not yet complete		Distribution: Breadth
+Still Needed:	See Distribution: Breadth section 
+Not yet complete		Distribution: Pathway
+Still Needed:	See Pathway: Quantitative Studies section 
+Complete		Skill Requirement
+Complete except for in-progress classes		Major Requirements
+Complete	Foundation	
+ 	 
+ 	 
+Complete		ACADEMIC FOUNDATION REQUIREMENTS
+Complete		First-Year Seminar
+FYS 101L	FIRST YEAR SEMINAR	A- 	4	Spring 2016
+Complete		Writing for College
+ESOL 120L	WRITING FOR COLLEGE	A 	3	Fall 2015
+Not yet complete	Distribution: Breadth	
+ 	 
+ 	 
+Not yet complete		Minimum Distribution Credit
+Still Needed:	You must complete a minimum of 36 distribution credits (through Breadth, Pathway, and Overflow courses). Although some courses may fulfill both Breadth and Pathway requirements, every course counts only once toward the 36-credit distribution requirement. If you are majoring in a Breadth-area discipline (e.g. MATH, HIST), you may apply a maximum of 6 credits in that discipline to your distribution total. You currently have 26, so you still need 10 distribution credits. All students must declare a Pathway by the end of their freshman year.
+Not yet complete		BREADTH REQUIREMENTS
+Complete		3 credits in Philosophical Perspectives
+PHIL 101L	PHILOSOPHICAL PERSPECTIVES	B- 	3	Fall 2015
+Complete		3 credits in Fine Arts
+MUS 105L	INTRO TO MUSIC	A 	3	Spring 2017
+Not yet complete		3 credits in History
+Still Needed:	Click here to see classes that satisfy this requirement. 
+Not yet complete		3 credits in Literature
+Still Needed:	Click here to see classes that satisfy this requirement. 
+Complete		3 credits in Math
+MATH 241L	CALCULUS I	B 	4	Fall 2017
+Complete		3 credits in Natural Science
+BIOL 101L	TOPICS IN BIOLOGY	A 	3	Spring 2016
+Not yet complete		3 credits Ethics/Applied Ethics/Religious Studies
+Still Needed:	Click here to see classes that satisfy this requirement. 
+Complete		3 credits in Social Science
+PSYC 101L	INTRO PSYCHOLOGY	A 	3	Spring 2018
+Not yet complete		DISTRIBUTION OVERFLOW
+EVERY STUDENT MUST HAVE A TOTAL OF 36 CORE DISTRIBUTION CREDITS. PATHWAY COURSES MAY BE LISTED IN EITHER THE BREADTH OR OVERFLOW AREAS. PLEASE NOTE, HOWEVER, THAT EVERY COURSE CAN ONLY COUNT ONCE TOWARD THE 36-CREDIT DISTRIBUTION TOTAL. 
+Complete		Distribution Overflow
+ARAB 101L	ELEM ARAB I	A 	3	Fall 2016
+Complete		Distribution Overflow
+MATH 130L	INTRO-STATIST I	B 	3	Fall 2015
+Complete		Distribution Overflow
+MATH 205L	DISCRETE MATHEMATICS	A 	4	Fall 2016
+Not yet complete		Distribution Overflow
+Still Needed:	Click here for Distribution Overflow course explanation 
+Not yet complete	Pathway: Quantitative Studies	
+ 	 
+ 	 
+Not yet complete		QUANTITATIVE STUDIES PATHWAY COURSES
+PATHWAYS REQUIRE A MIN OF 3 DIFFERENT AUTHORIZED AREAS FOR THIS PATHWAY - 1: [MUS 106L, 120L, 220L] AND 2: [MATH 130L, 205L, 210L, 241L, 242L] AND 3: [CHEM 101L, 132L, ENSC 305L, PHYS 108L, 201L,  202L, 211L, 212L, 221L] AND 4: [PHIL 203L, 235L, 310L] AND 5: [ECON 104L, 150L, 305L, POSC 121L, 122L, 124L,  235L, 289L, 325L, 342L, PSYC 350L, SOCW 383N] AND 6: [COM 200L, CMPT 120L, CRJU 374L, ENG 222L, FASH 304N] 
+Nearly complete - see advisor		Quantitative Studies Options
+MATH 205L	DISCRETE MATHEMATICS	A 	4	Fall 2016
+MATH 241L	CALCULUS I	B 	4	Fall 2017
+CMPT 120L	INTRO TO PROGRAMMING	A- 	4	Fall 2015
+Still Needed:	 Minimum Areas unsatisfied 
+Complete	Skill Requirement	
+ 	 
+ 	 
+Complete		SKILL REQUIREMENT
+Complete		Technological Competency
+CMPT 103L	TECHNOLOGY FOR 21st CENTURY	A 	3	Fall 2015
+Complete except for in-progress classes	Major in Information Technology and Systems	
+Academic Year:	  2017-2018	Credits Required:	  73
+GPA:	3.5  	Credits Applied:	  75
+Complete		Minimum Major GPA
+Complete		Minimum Major Credit
+A CONCENTRATION IS REQUIRED FOR THIS MAJOR. 
+Complete except for in-progress classes		Information Technology Concentration
+Complete except for in-progress classes		FOUNDATION COURSES
+Complete		Introduction to Programming
+CMPT 120L	INTRO TO PROGRAMMING	A- 	4	Fall 2015
+Complete		Software Development I
+CMPT 220L	SOFTWARE DEVELOPMENT I	A- 	4	Spring 2016
+Complete		Software Development II
+CMPT 221L	SOFTWARE DEVELOPMENT II	B 	4	Fall 2016
+Complete		Software Systems and Analysis
+CMPT 230L	SOFTWARE SYSTEMS+ANALYSIS	A 	4	Spring 2016
+Complete		Data Communications and Networks
+CMPT 306N	DATA COMMUNICATIONS	A 	4	Fall 2016
+Complete		Database Management
+CMPT 308N	DATABASE MANAGEMENT	 	4	Spring 2017
+Complete		Internetworking
+CMPT 307N	INTERNETWORKING	B 	4	Fall 2017
+Complete		Architecture of Hardware & Systems Software
+CMPT 321N	ARCH-HARDWARE+SYSTEMS SOFTWARE	A 	3	Fall 2017
+Complete		Systems Design
+CMPT 330L	SYSTEM DESIGN	A- 	4	Fall 2017
+Complete except for in-progress classes		ITS Project I
+CMPT 475N	CS PROJECT	IP 	(3)	Fall 2018
+Complete except for in-progress classes		ITS Project II
+CMPT 476N	CS PROJECT II	IP 	(1)	Fall 2018
+Complete		REQUIRED RELATED FIELD COURSES
+Complete		Introduction to Business & Management
+BUS 100N	INTRO BUS & MGT	A- 	3	Spring 2017
+Complete		Intro Statistics I
+MATH 130L	INTRO-STATIST I	B 	3	Fall 2015
+Complete		Discrete Mathematics
+MATH 205L	DISCRETE MATHEMATICS	A 	4	Fall 2016
+Complete		Calculus I
+MATH 241L	CALCULUS I	B 	4	Fall 2017
+Complete except for in-progress classes	Concentration: Information Technology	
+Academic Year:	  2017-2018	Credits Required:	  20
+ 	 	Credits Applied:	  23
+Complete		Minimum Conc Credit
+Complete except for in-progress classes		INFORMATION TECHNOLOGY COURSES
+Complete except for in-progress classes		Systems Administration
+CMPT 410N	SYSTEMS ADMINST-MGTMNT	IP 	(4)	Fall 2018
+Complete		Internet Security
+CMPT 420N	INTERNET SECURITY	A 	4	Spring 2018
+Complete except for in-progress classes		Technology Entrepreneurship
+CMPT 430L	TECHNOLOGY+ENTREPRENEURSHIP	IP 	(3)	Fall 2018
+Complete		Platform Technology Electives
+Complete		UNIX
+CMPT 312N	UNIX	B 	4	Spring 2017
+Complete except for in-progress classes		CMPT Upper level electives
+CMPT 309L	PROJECT MANAGEMENT	A 	3	Spring 2018
+CMPT 418N	MOBILE SECURITY	A 	4	Spring 2018
+CMPT 476N	CS PROJECT II	IP 	(1)	Fall 2018
+Not yet complete	Minor in Cybersecurity	
+Academic Year:	  2017-2018	Credits Required:	  23
+GPA: 3.5	  	Credits Applied:	  20
+Not yet complete		Minimum Minor Credit
+Still Needed:	23 credits are required. You currently have 20, you still need 3 additional credits.
+Complete		Minimum Minor GPA
+Complete		Minimum Credit At Marist
+Not yet complete		MINOR REQUIREMENTS
+Complete		Introduction to Programming
+CMPT 120L	INTRO TO PROGRAMMING	A- 	4	Fall 2015
+Complete		Data Communications and Networks
+CMPT 306N	DATA COMMUNICATIONS	A 	4	Fall 2016
+Complete		Internetworking
+CMPT 307N	INTERNETWORKING	B 	4	Fall 2017
+Complete except for in-progress classes		Introduction to Cybersecurity
+CMPT 416N	INTRO TO CYBERSECURITY	IP 	(4)	Fall 2018
+Not yet complete		Hacking and Penetration Testing
+Still Needed:	1 Class in CMPT 417N*
+Complete		Mobile Security
+CMPT 418N	MOBILE SECURITY	A 	4	Spring 2018
+Complete except for in-progress classes	Minor in Computer Science	
+Academic Year:	  2017-2018	Credits Required:	  22
+GPA:	3.5  	Credits Applied:	  24
+Complete except for in-progress classes		REQUIRED COURSES
+Complete		Introduction to Programming
+CMPT 120L	INTRO TO PROGRAMMING	A- 	4	Fall 2015
+Complete		Software Development I
+CMPT 220L	SOFTWARE DEVELOPMENT I	A- 	4	Spring 2016
+Complete		Software Development II
+CMPT 221L	SOFTWARE DEVELOPMENT II	B 	4	Fall 2016
+Complete		Discrete Mathematics
+MATH 205L	DISCRETE MATHEMATICS	A 	4	Fall 2016
+Complete except for in-progress classes		2 approved upper level CMPT courses
+CMPT 309L	PROJECT MANAGEMENT	A 	3	Spring 2018
+CMPT 330L	SYSTEM DESIGN	A- 	4	Fall 2017
+CMPT 476N	CS PROJECT II	IP 	(1)	Fall 2018
+Complete	Minor in Information Systems	
+Academic Year:	  2017-2018	Credits Required:	  23
+GPA:	3.5  	Credits Applied:	  23
+Complete		Minimum Minor Credit
+Complete		Minimum Minor GPA
+Complete		Minimum Credit At Marist
+Complete		COURSE REQUIREMENTS
+Complete		Introduction to Programming
+CMPT 120L	INTRO TO PROGRAMMING	A- 	4	Fall 2015
+Complete		Introduction to Business & Management
+BUS 100N	INTRO BUS & MGT	A- 	3	Spring 2017
+Complete		Software Systems and Analysis
+CMPT 230L	SOFTWARE SYSTEMS+ANALYSIS	A 	4	Spring 2016
+Complete		Data Communications
+CMPT 306N	DATA COMMUNICATIONS	A 	4	Fall 2016
+Complete		Systems Design
+CMPT 330L	SYSTEM DESIGN	A- 	4	Fall 2017
+Complete		Data Management
+CMPT 308N	DATABASE MANAGEMENT	C 	4	Spring 2017
+
+  Electives	
+Credit Applied:	1	Classes Applied:	1
+CMPT 105N	MS EXCEL	A 	1	Spring 2017
+  In-progress	
+Credits Applied:	15	Classes Applied:	5
+CMPT 410N	SYSTEMS ADMINST-MGTMNT	IP 	4	Fall 2018
+CMPT 416N	INTRO TO CYBERSECURITY	IP 	4	Fall 2018
+CMPT 430L	TECHNOLOGY+ENTREPRENEURSHIP	IP 	3	Fall 2018
+CMPT 475N	CS PROJECT	IP 	3	Fall 2018
+CMPT 476N	CS PROJECT II	IP 	1	Fall 2018
+
+
+Legend
+	Complete		Complete except for classes in-progress	(T)	Transfer Class
+	Not Complete		Nearly complete - see advisor	@	

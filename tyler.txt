@@ -1,0 +1,227 @@
+DWPROD
+Student View    AB218SdT as of 28-Aug-2018 at 22:11
+Student Galske, Tyler O Level Undergraduate
+ID 20064184 Degree B.S.  
+Classification Senior   College Computer Science & Mathematics
+Advisor Schwartz, Donald R  Major Computer Science
+Overall GPA 3.953 Minors Cybersecurity
+Information Technology
+Information Systems
+Student Type Traditional Continuing Concentration CompSci: Software Development
+Term Location Poughkeepsie
+
+Degree Progress
+Requirements
+97%
+ 
+Credits
+94%
+ 
+
+Degree in Bachelor of Science
+Academic Year:   2015-2016 Credits Required:   120
+GPA:   3.953 Credits Applied:   113
+Last 30 Credits At Marist
+Mimimum Liberal Art Credits
+Minimum Degree Credits
+Still Needed: 120 CREDITS ARE REQUIRED. YOU CURRENTLY HAVE 113, (INCLUDING BOTH EARNED AND IN PROGRESS COURSES) YOU STILL NEED 7 ADDITIONAL CREDITS. COURSES THAT APPEAR TWICE ON THE AUDIT ARE ONLY COUNTED ONCE TOWARD THIS REQUIREMENT.
+Minimum GPA
+2.0 GPA Requirement
+Foundation
+Distribution: Breadth
+Distribution: Pathway
+Skill Requirement
+Major Requirements
+Still Needed: See Major in Computer Science section
+Foundation
+        ACADEMIC FOUNDATION REQUIREMENTS
+First-Year Seminar
+FYS 101L FIRST YEAR SEMINAR A  4 Spring 2016
+Writing for College
+ENG 120L WRITING FOR COLLEGE A  3 Fall 2015
+Distribution: Breadth
+        Minimum Distribution Credit
+BREADTH REQUIREMENTS
+3 credits in Philosophical Perspectives
+PHIL 101L PHILOSOPHICAL PERSPECTIVES A  3 Spring 2016
+3 credits in Fine Arts
+MUS 392L ST:HIST OF ROCK'N ROLL A-  3 Fall 2015
+3 credits in History
+HIST 252L MODERN EUROPE A  3 Fall 2016
+3 credits in Literature
+ENG 240L AM SHORT FIC A  3 Fall 2017
+3 credits in Math
+MATH 241L CALCULUS I A-  4 Fall 2017
+3 credits in Natural Science
+ENSC 101L INTRO ENVIRON ISS A  3 Spring 2017
+3 credits Ethics/Applied Ethics/Religious Studies
+REST 201L RELIGION IN AMER A  3 Spring 2018
+3 credits in Social Science
+ECON 150L ECON-SOCIAL ISSUES A  3 Spring 2018
+DISTRIBUTION OVERFLOW
+EVERY STUDENT MUST HAVE A TOTAL OF 36 CORE DISTRIBUTION CREDITS. PATHWAY COURSES MAY BE LISTED IN EITHER THE BREADTH OR OVERFLOW AREAS. PLEASE NOTE, HOWEVER, THAT EVERY COURSE CAN ONLY COUNT ONCE TOWARD THE 36-CREDIT DISTRIBUTION TOTAL. 
+Distribution Overflow
+SPAN 106L INTER SPAN II A  3 Fall 2015
+Distribution Overflow
+MATH 130L INTRO-STATISTICS T  3 Fall 2015
+Satisfied by MATH130L - INTRO-STATISTICS - ADVANCED PLACEMENT EXAM:AP
+Distribution Overflow
+MATH 205L DISCRETE MATHEMATICS A  4 Spring 2017
+Distribution Overflow
+ANTH 102L CULTURAL ANTHROPOLOGY IP  (3) Fall 2018
+Pathway: Quantitative Studies
+        QUANTITATIVE STUDIES PATHWAY COURSES
+PATHWAYS REQUIRE A MIN OF 3 DIFFERENT AUTHORIZED AREAS FOR THIS PATHWAY - 1: [MUS 106L, 120L, 220L] AND 2: [MATH 130L, 205L, 210L, 241L, 242L] AND 3: [CHEM 101L, 132L, ENSC 305L, PHYS 108L, 201L,  202L, 211L, 212L, 221L] AND 4: [PHIL 203L, 235L, 310L] AND 5: [ECON 104L, 150L, 305L, POSC 121L, 122L, 124L,  235L, 289L, 325L, 342L, PSYC 350L, SOCW 383N] AND 6: [COM 200L, CMPT 120L, CRJU 374L, ENG 222L, FASH 304N] 
+Quantitative Studies Options
+MATH 130L INTRO-STATISTICS T  3 Fall 2015
+Satisfied by MATH130L - INTRO-STATISTICS - ADVANCED PLACEMENT EXAM:AP
+MATH 205L DISCRETE MATHEMATICS A  4 Spring 2017
+ECON 150L ECON-SOCIAL ISSUES A  3 Spring 2018
+CMPT 120L INTRO TO PROGRAMMING A-  4 Fall 2015
+Skill Requirement
+        SKILL REQUIREMENT
+Technological Competency
+CMPT 120L INTRO TO PROGRAMMING A-  4 Fall 2015
+Major in Computer Science
+Academic Year:   2015-2016
+GPA:   3.952
+A CONCENTRATION IS REQUIRED FOR THIS MAJOR 
+Software Development Concentration
+Still Needed: See Concentration in Software Development section
+Concentration in Software Development
+Academic Year:   2015-2016 Credits Required:   67
+    Credits Applied:   60
+Unmet conditions for this set of requirements: 67 to 69 credits are required. You currently have 60, you still need 7 more credits. 
+COURSE REQUIREMENTS FOR SOFTWARE DEVEL CONC
+Introduction to Programming
+CMPT 120L INTRO TO PROGRAMMING A-  4 Fall 2015
+Software Development I
+CMPT 220L SOFTWARE DEVELOPMENT I A  4 Spring 2016
+Software Development II
+CMPT 221L SOFTWARE DEVELOPMENT II A  4 Fall 2016
+Software Systems and Analysis
+CMPT 230L SOFTWARE SYSTEMS+ANALYSIS A  4 Spring 2016
+Data Communications and Networks
+CMPT 306N DATA COMMUNICATIONS A  4 Fall 2016
+Database Management
+CMPT 308N DATABASE MANAGEMENT A  4 Fall 2016
+Internetworking
+CMPT 307N INTERNETWORKING A  4 Spring 2017
+System Design
+CMPT 330L SYSTEM DESIGN A  4 Spring 2017
+Computer Organization and Architecture
+CMPT 422N COMPUTER ORG & ARCH A  4 Fall 2017
+Algorithm Analysis and Design
+CMPT 435L ALGORITHM ANALYSIS+DESIGN A  3 Spring 2018
+CONCENTRATION ELECTIVES
+Still Needed: Choose from 2 of the following:
+System Elective Option
+( Choose from 1 of the following: ) and
+Operating Systems
+( 1 Class in CMPT 424L* ) or
+Design of Compilers
+( 1 Class in CMPT 432L* )
+Language Elective Option
+Theory of Programming Languages
+CMPT 331L THEORY OF PROGRAM LANG IP  (3) Fall 2018
+Third Required Elective
+( Choose from 1 of the following: )
+Language Study
+( 1 Class in CMPT 333L* ) or
+Alternate Elective Options
+( 1 Class in CMPT 331L* or 424L* or 432L* or 440L* )
+Project I
+CMPT 475N CS PROJECT IP  (3) Fall 2018
+Project II
+CMPT 476N CS PROJECT II IP  (1) Fall 2018
+COURSE REQUIREMENTS IN RELATED FIELDS
+Introduction to Business & Management
+BUS 100N INTRO BUS & MGT A  3 Fall 2015
+Introduction to Statistics
+MATH 130L INTRO-STATISTICS T  3 Fall 2015
+Satisfied by MATH130L - INTRO-STATISTICS - ADVANCED PLACEMENT EXAM:AP
+Calculus I
+MATH 241L CALCULUS I A-  4 Fall 2017
+Discrete Mathematics
+MATH 205L DISCRETE MATHEMATICS A  4 Spring 2017
+Minor in Cybersecurity
+Academic Year:   2016-2017 Credits Required:   23
+GPA:   3.896 Credits Applied:   23
+Minimum Minor Credit
+Minimum Minor GPA
+Minimum Credit At Marist
+MINOR REQUIREMENTS
+Introduction to Programming
+CMPT 120L INTRO TO PROGRAMMING A-  4 Fall 2015
+Data Communications and Networks
+CMPT 306N DATA COMMUNICATIONS A  4 Fall 2016
+Internetworking
+CMPT 307N INTERNETWORKING A  4 Spring 2017
+Introduction to Cybersecurity
+CMPT 416N INTRO TO CYBERSECURITY A  4 Fall 2017
+Hacking and Penetration Testing
+CMPT 417N HACKING + PENETRATION TESTING A  3 Spring 2018
+Mobile Security
+CMPT 418N MOBILE SECURITY A-  4 Spring 2018
+Minor in Information Technology
+Academic Year:   2016-2017 Credits Required:   24
+GPA:   3.950 Credits Applied:   24
+Minimum Minor Credit
+Minimum Minor GPA
+Minimum Credit At Marist
+COURSE REQUIREMENTS
+Introduction to Programming
+CMPT 120L INTRO TO PROGRAMMING A-  4 Fall 2015
+Software Development I
+CMPT 220L SOFTWARE DEVELOPMENT I A  4 Spring 2016
+Software Development II
+CMPT 221L SOFTWARE DEVELOPMENT II A  4 Fall 2016
+Data Communications and Networks
+CMPT 306N DATA COMMUNICATIONS A  4 Fall 2016
+Discrete Mathematics
+MATH 205L DISCRETE MATHEMATICS A  4 Spring 2017
+Internetworking
+CMPT 307N INTERNETWORKING A  4 Spring 2017
+Minor in Information Systems
+Academic Year:   2016-2017 Credits Required:   23
+GPA:   3.948 Credits Applied:   23
+Minimum Minor Credit
+Minimum Minor GPA
+Minimum Credit At Marist
+COURSE REQUIREMENTS
+Introduction to Programming
+CMPT 120L INTRO TO PROGRAMMING A-  4 Fall 2015
+Introduction to Business & Management
+BUS 100N INTRO BUS & MGT A  3 Fall 2015
+Software Systems and Analysis
+CMPT 230L SOFTWARE SYSTEMS+ANALYSIS A  4 Spring 2016
+Data Communications
+CMPT 306N DATA COMMUNICATIONS A  4 Fall 2016
+Systems Design
+CMPT 330L SYSTEM DESIGN A  4 Spring 2017
+Data Management
+CMPT 308N DATABASE MANAGEMENT A  4 Fall 2016
+
+  Electives
+Credits Applied: 8 Classes Applied: 6
+MDIA 210L INTERACTIVE MEDIA I IP  (3) Fall 2018
+MUS 250N MC SINGERS-MEN A  1 Fall 2015
+MUS 250N MC SINGERS-MEN A  1 Spring 2016
+MUS 250N MC SINGERS-MEN A  1 Fall 2016
+MUS 250N MC SINGERS-MEN A  1 Fall 2017
+MUS 250N MC SINGERS-MEN IP  (1) Fall 2018
+  In-progress
+Credits Applied: 14 Classes Applied: 6
+ANTH 102L CULTURAL ANTHROPOLOGY IP  3 Fall 2018
+CMPT 331L THEORY OF PROGRAM LANG IP  3 Fall 2018
+CMPT 475N CS PROJECT IP  3 Fall 2018
+CMPT 476N CS PROJECT II IP  1 Fall 2018
+MDIA 210L INTERACTIVE MEDIA I IP  3 Fall 2018
+MUS 250N MC SINGERS-MEN IP  1 Fall 2018
+
+
+Legend
+Complete Complete except for classes in-progress (T) Transfer Class
+Not Complete Nearly complete - see advisor @ Any course number
+
+ Disclaimer

@@ -1,13 +1,17 @@
 package marist;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 public class Main {
 
-  public static void main(String[] args) throws FileNotFoundException {
+  public static void main(String[] args) {
     DegreeWorksParser degreeWorksParser = new DegreeWorksParser();
+    
+    Student student = degreeWorksParser.extractStudentInfo();
+    
+    Gson gson = new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
+    System.out.println(gson.toJson(student));
 
   }
 }
