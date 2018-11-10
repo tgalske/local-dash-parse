@@ -1,290 +1,278 @@
 DWPROD
-Student View    AB218U7i as of 31-Aug-2018 at 21:44		
-Student	Mastriano, Evan	Level	Undergraduate
-ID	20065191	Degree	B.S.  
-Classification	Senior  	College	Communication & The Arts
-Advisors	Schrier, Karen L  
-Snyder, James G  
-Rivas, Pablo 	Majors	Games & Emerging Media (B.S.)
+Student View    AB218VZF as of 08-Oct-2018 at 21:55
+Student LASTNAME, FIRSTNAME Level Undergraduate
+ID 12345678 Degree B.S.
+Classification Senior   College Communication & The Arts
+Advisors Schrier, Karen L 
+Snyder, James G 
+Rivas, Pablo  Majors Games & Emerging Media (B.S.)
 Computer Science
-Overall GPA	3.829	Minor	English-Creative Writing
-Student Type	Traditional Continuing	Concentrations	Tech Devel & Programming (GAME)
+Overall GPA 3.829 Minor English-Creative Writing
+Student Type Traditional Continuing Concentrations Tech Devel & Programming (GAME)
 CompSci: Game Design & Programing
-Term Location	Poughkeepsie		
+Term Location Poughkeepsie
 
 Degree Progress
-Requirements	
+Requirements
 93%
  
-
-Credits	
+Credits
 100%
 
 
-Not yet complete	Degree in Bachelor of Science	
-Academic Year:	  2015-2016	Credits Required:	  120
-GPA:	  3.829	Credits Applied:	  128
-Complete		Last 30 Credits At Marist
-Complete		Mimimum Liberal Art Credits
-Complete		Minimum Degree Credits
-Complete		Minimum GPA
-Complete		2.0 GPA Requirement
-Complete		Foundation
-Complete		Distribution: Breadth
-Complete		Distribution: Pathway
-Complete		Skill Requirement
-Not yet complete		Honors Program
-Still Needed:	See Honors section 
-Not yet complete		Major Requirements
-Still Needed:	See Major in Games & Emerging Media section 
-See Major in Computer Science section 
-Complete	Foundation	
- 	 
- 	 
-Complete		ACADEMIC FOUNDATION REQUIREMENTS
-Complete		First-Year Seminar
-FYSH 101L	FIRST YEAR SEMINAR HONORS	A- 	4	Fall 2015
-Complete		Writing for College
-ENGH 120L	WRITING FOR COLLEGE-HONORS	B+ 	3	Spring 2016
-Complete	Distribution: Breadth	
- 	 
- 	 
-Complete		Minimum Distribution Credit
-Complete		BREADTH REQUIREMENTS
-Complete		3 credits in Philosophical Perspectives
-PHIL 101L	PHILOSOPHICAL PERSPECTIVES	A 	3	Spring 2016
-Complete		3 credits in Fine Arts
-ENG 280L	CREATIVE WRITING	A 	3	Fall 2016
-Complete		3 credits in History
-HIST 226L	AMER HIST I	T 	3	Fall 2015
-Satisfied by	HIST226L - AMER HIST I - ADVANCED PLACEMENT EXAM:AP
-Complete		3 credits in Literature
-ENG 255L	INTRO TO LITERATURE	A 	3	Fall 2015
-Complete		3 credits in Math
-MATH 241L	CALCULUS I	A 	4	Fall 2017
-Complete		3 credits in Natural Science
-PHYS 211L	GENERAL PHYSICS I	B 	3	Fall 2017
-Complete		3 credits Ethics/Applied Ethics/Religious Studies
-HONR 365L	CSL-PHIL: ETHICS OF FOOD	A 	3	Fall 2017
-Complete		3 credits in Social Science
-POSC 110L	AMER NATL GOVT	T 	3	Fall 2015
-Satisfied by	POSC110L - AMER NATL GOVT - ADVANCED PLACEMENT EXAM:AP
-Complete		DISTRIBUTION OVERFLOW
+Degree in Bachelor of Science
+Academic Year:   2015-2016 Credits Required:   120
+GPA:   3.829 Credits Applied:   128
+Last 30 Credits At Marist
+Mimimum Liberal Art Credits
+Minimum Degree Credits
+Minimum GPA
+2.0 GPA Requirement
+Foundation
+Distribution: Breadth
+Distribution: Pathway
+Skill Requirement
+Honors Program
+Still Needed: See Honors section
+Major Requirements
+Still Needed: See Major in Games & Emerging Media section
+See Major in Computer Science section
+Foundation
+        ACADEMIC FOUNDATION REQUIREMENTS
+First-Year Seminar
+FYSH 101L FIRST YEAR SEMINAR HONORS A-  4 Fall 2015
+Writing for College
+ENGH 120L WRITING FOR COLLEGE-HONORS B+  3 Spring 2016
+Distribution: Breadth
+        Minimum Distribution Credit
+BREADTH REQUIREMENTS
+3 credits in Philosophical Perspectives
+PHIL 101L PHILOSOPHICAL PERSPECTIVES A  3 Spring 2016
+3 credits in Fine Arts
+ENG 280L CREATIVE WRITING A  3 Fall 2016
+3 credits in History
+HIST 226L AMER HIST I T  3 Fall 2015
+Satisfied by HIST226L - AMER HIST I - ADVANCED PLACEMENT EXAM:AP
+3 credits in Literature
+ENG 255L INTRO TO LITERATURE A  3 Fall 2015
+3 credits in Math
+MATH 241L CALCULUS I A  4 Fall 2017
+3 credits in Natural Science
+PHYS 211L GENERAL PHYSICS I B  3 Fall 2017
+3 credits Ethics/Applied Ethics/Religious Studies
+HONR 365L CSL-PHIL: ETHICS OF FOOD A  3 Fall 2017
+3 credits in Social Science
+POSC 110L AMER NATL GOVT T  3 Fall 2015
+Satisfied by POSC110L - AMER NATL GOVT - ADVANCED PLACEMENT EXAM:AP
+DISTRIBUTION OVERFLOW
 EVERY STUDENT MUST HAVE A TOTAL OF 36 CORE DISTRIBUTION CREDITS. PATHWAY COURSES MAY BE LISTED IN EITHER THE BREADTH OR OVERFLOW AREAS. PLEASE NOTE, HOWEVER, THAT EVERY COURSE CAN ONLY COUNT ONCE TOWARD THE 36-CREDIT DISTRIBUTION TOTAL. 
-Complete		Distribution Overflow
-SPAN 106L	INTER SPAN II	T 	3	Fall 2015
-Satisfied by	SPAN3179 - INTER SPAN II - UNIVERSITY OF CONNECTICUT
-Complete		Distribution Overflow
-MATH 205L	DISCRETE MATHEMATICS	A 	4	Spring 2017
-Complete		Distribution Overflow
-MATH 130L	INTRO-STATIST I	A 	3	Fall 2015
-Complete		Distribution Overflow
-MUS 105L	INTRO TO MUSIC	A 	3	Fall 2015
-Complete	Pathway: Quantitative Studies	
- 	 
- 	 
-Complete		QUANTITATIVE STUDIES PATHWAY COURSES
+Distribution Overflow
+SPAN 106L INTER SPAN II T  3 Fall 2015
+Satisfied by SPAN3179 - INTER SPAN II - UNIVERSITY OF CONNECTICUT
+Distribution Overflow
+MATH 205L DISCRETE MATHEMATICS A  4 Spring 2017
+Distribution Overflow
+MATH 130L INTRO-STATIST I A  3 Fall 2015
+Distribution Overflow
+MUS 105L INTRO TO MUSIC A  3 Fall 2015
+Pathway: Quantitative Studies
+        QUANTITATIVE STUDIES PATHWAY COURSES
 PATHWAYS REQUIRE A MIN OF 3 DIFFERENT AUTHORIZED AREAS FOR THIS PATHWAY - 1: [MUS 106L, 120L, 220L] AND 2: [MATH 130L, 205L, 210L, 241L, 242L] AND 3: [CHEM 101L, 132L, ENSC 305L, PHYS 108L, 201L,  202L, 211L, 212L, 221L] AND 4: [PHIL 203L, 235L, 310L] AND 5: [ECON 104L, 150L, 305L, POSC 121L, 122L, 124L,  235L, 289L, 325L, 342L, PSYC 350L, SOCW 383N] AND 6: [COM 200L, CMPT 120L, CRJU 374L, ENG 222L, FASH 304N] 
-Complete		Quantitative Studies Options
-MATH 130L	INTRO-STATIST I	A 	3	Fall 2015
-PHYS 211L	GENERAL PHYSICS I	B 	3	Fall 2017
-CMPT 120L	INTRO TO PROGRAMMING	B+ 	4	Fall 2015
-HONR 370L	SEM-SCI:ENV EXP OF THE HUDSON	A 	3	Fall 2016
-Complete	Skill Requirement	
- 	 
- 	 
-Complete		SKILL REQUIREMENT
-Complete		Technological Competency
-COM 103L	DIGITAL TOOLBOX	A 	3	Fall 2016
-Not yet complete	Honors	
- 	 
- 	 
-Not yet complete		REQUIRED HONORS PROGRAM COURSES
-Complete		Honors First-Year Seminar
-FYSH 101L	FIRST YEAR SEMINAR HONORS	A- 	4	Fall 2015
-Complete		Honors Writing for College
-ENGH 120L	WRITING FOR COLLEGE-HONORS	B+ 	3	Spring 2016
-Not yet complete		HONORS COURSE OPTIONS
-Still Needed:	Choose from 1 of the following:
-Complete		THEMATIC SEMINAR OPTIONS
-Complete		Seminar - Scientific or Quantitative Analysis
-HONR 370L	SEM-SCI:ENV EXP OF THE HUDSON	A 	3	Fall 2016
-Complete		CIVIC & SERVICE LEARNING SEMINARS
-Complete		C&SL Seminar - Philosophoical or Moral Foundations
-HONR 365L	CSL-PHIL: ETHICS OF FOOD	A 	3	Fall 2017
-Complete		HONORS BY CONTRACT
-Complete		Honors-by-Contract
-HONR 401L	HONORS CONTRACT	A- 	1	Spring 2018
-Not yet complete		SENIOR REQUIREMENTS
-	( Choose from 2 of the following: )
-Not yet complete		Honors Thesis Project
-	( 1 Class in HONR 420L ) and
-Not yet complete		Honors Senior Seminar
-	( 1 Class in HONR 495L )
-Not yet complete	Major in Games & Emerging Media	
-Academic Year:	  2015-2016
-GPA:	  3.818
-Complete		Minimum Major GPA
+Quantitative Studies Options
+MATH 130L INTRO-STATIST I A  3 Fall 2015
+PHYS 211L GENERAL PHYSICS I B  3 Fall 2017
+CMPT 120L INTRO TO PROGRAMMING B+  4 Fall 2015
+HONR 370L SEM-SCI:ENV EXP OF THE HUDSON A  3 Fall 2016
+Skill Requirement
+        SKILL REQUIREMENT
+Technological Competency
+COM 103L DIGITAL TOOLBOX A  3 Fall 2016
+Honors
+        REQUIRED HONORS PROGRAM COURSES
+Honors First-Year Seminar
+FYSH 101L FIRST YEAR SEMINAR HONORS A-  4 Fall 2015
+Honors Writing for College
+ENGH 120L WRITING FOR COLLEGE-HONORS B+  3 Spring 2016
+HONORS COURSE OPTIONS
+Still Needed: Choose from 1 of the following:
+THEMATIC SEMINAR OPTIONS
+Seminar - Scientific or Quantitative Analysis
+HONR 370L SEM-SCI:ENV EXP OF THE HUDSON A  3 Fall 2016
+CIVIC & SERVICE LEARNING SEMINARS
+C&SL Seminar - Philosophoical or Moral Foundations
+HONR 365L CSL-PHIL: ETHICS OF FOOD A  3 Fall 2017
+HONORS BY CONTRACT
+Honors-by-Contract
+HONR 401L HONORS CONTRACT A-  1 Spring 2018
+SENIOR REQUIREMENTS
+( Choose from 2 of the following: )
+Honors Thesis Project
+( 1 Class in HONR 420L ) and
+Honors Senior Seminar
+( 1 Class in HONR 495L )
+Major in Games & Emerging Media
+Academic Year:   2015-2016
+GPA:   3.818
+Minimum Major GPA
 A CONCENTRATION IS REQUIRED FOR THIS MAJOR. 
-Not yet complete	Conc: Tech Development & Programming	
-Academic Year:	  2015-2016	Credits Required:	  68
- 	 	Credits Applied:	  59
-Not yet complete		Minimum Major/Conc Credit
-Still Needed:	68 credits are required. You currently have 59, you still need 9 more credits.
-Complete		Minimum Major/Conc GPA
-Not yet complete		FOUNDATION COURSES
-Complete		Introduction to Programming
-CMPT 120L	INTRO TO PROGRAMMING	B+ 	4	Fall 2015
-Complete		Software Development I
-CMPT 220L	SOFTWARE DEVELOPMENT I	A 	4	Spring 2016
-Complete		Software Development II
-CMPT 221L	SOFTWARE DEVELOPMENT II	A 	4	Fall 2016
-Complete		Software System & Analysis
-CMPT 230L	SOFTWARE SYSTEMS+ANALYSIS	A 	4	Spring 2016
-Complete except for in-progress classes		Game Design & Programming I
-CMPT 414N	GAME DESIGN+PROG I	IP 	(4)	Fall 2018
-Complete		Introduction to Games
-GAME 101L	INTRO TO GAMES	A 	3	Fall 2016
-Complete		Business of Games
-GAME 301N	BUSINESS OF GAMES	A 	3	Spring 2018
-Not yet complete		Games Studio
-Still Needed:	1 Class in GAME 480N
-Not yet complete		Capping
-Still Needed:	1 Class in GAME 481N
-Complete		Digital Toolbox
-COM 103L	DIGITAL TOOLBOX	A 	3	Fall 2016
-Not yet complete		COLLOQUIUM/PRACTICUM OPTIONS
+Conc: Tech Development & Programming
+Academic Year:   2015-2016 Credits Required:   68
+    Credits Applied:   59
+Minimum Major/Conc Credit
+Still Needed: 68 credits are required. You currently have 59, you still need 9 more credits.
+Minimum Major/Conc GPA
+FOUNDATION COURSES
+Introduction to Programming
+CMPT 120L INTRO TO PROGRAMMING B+  4 Fall 2015
+Software Development I
+CMPT 220L SOFTWARE DEVELOPMENT I A  4 Spring 2016
+Software Development II
+CMPT 221L SOFTWARE DEVELOPMENT II A  4 Fall 2016
+Software System & Analysis
+CMPT 230L SOFTWARE SYSTEMS+ANALYSIS A  4 Spring 2016
+Game Design & Programming I
+CMPT 414N GAME DESIGN+PROG I IP  (4) Fall 2018
+Introduction to Games
+GAME 101L INTRO TO GAMES A  3 Fall 2016
+Business of Games
+GAME 301N BUSINESS OF GAMES A  3 Spring 2018
+Games Studio
+Still Needed: 1 Class in GAME 480N
+Capping
+Still Needed: 1 Class in GAME 481N
+Digital Toolbox
+COM 103L DIGITAL TOOLBOX A  3 Fall 2016
+COLLOQUIUM/PRACTICUM OPTIONS
 GAME 201L and GAME 202N can be taken 3 times. 
-Not yet complete		Select any three to total 3 credits
-CRDV 100N	EMPLOYMENT PRACT	A 	1	Spring 2017
-GAME 201L	COLLOQUIUM IN GAMES	B+ 	1	Spring 2018
-Still Needed:	1 Credit in GAME 202N
-Not yet complete		ELECTIVE GROUP OPTIONS FOR TECH DEVEL & PROGRAMMING
-Complete		SELECT ONE FROM THE FOLLOWING:
-Complete		Data Management
-CMPT 308N	DATABASE MANAGEMENT	A 	4	Spring 2017
-Complete except for in-progress classes		SELECT THREE FROM THE FOLLOWING:
-Complete except for in-progress classes		System Design
-CMPT 330L	SYSTEM DESIGN	IP 	(4)	Fall 2018
-Complete		Game Design & Programming II
-CMPT 415N	GAME DESIGN+PROGRAM II	B+ 	4	Spring 2018
-Complete		Algorithms Analysis & Design
-CMPT 435L	ALGORITHM ANALYSIS+DESIGN	A 	3	Spring 2018
-Not yet complete		Select as many as needed to reach 68 mjr crs:
-MDIA 201L	WRITING FOR MEDIA	A 	3	Spring 2017
-MDIA 411L	TOPICS:INTERACT MEDIA/REALITY	A 	3	Spring 2017
-Still Needed:	1 to 3 Credits in MDIA 101L or 110L or 203L or 210L* or 302N* or 304N or 310L* or 311L* or 312L or 313L or 314L or 316L or 320L or 410L* or 431L or 432L* or ART 431L* or 432L* or GAME 401N
-Complete		RELATED FIELD REQUIREMENTS
-Complete		Discrete Math
-MATH 205L	DISCRETE MATHEMATICS	A 	4	Spring 2017
-Complete		General Physics I
-PHYS 211L	GENERAL PHYSICS I	B 	3	Fall 2017
-Not yet complete	Major in Computer Science	
-Academic Year:	  2017-2018
-GPA:	  3.805
-Complete		Minimum Major GPA
+Select any three to total 3 credits
+CRDV 100N EMPLOYMENT PRACT A  1 Spring 2017
+GAME 201L COLLOQUIUM IN GAMES B+  1 Spring 2018
+Still Needed: 1 Credit in GAME 202N
+ELECTIVE GROUP OPTIONS FOR TECH DEVEL & PROGRAMMING
+SELECT ONE FROM THE FOLLOWING:
+Data Management
+CMPT 308N DATABASE MANAGEMENT A  4 Spring 2017
+SELECT THREE FROM THE FOLLOWING:
+System Design
+CMPT 330L SYSTEM DESIGN IP  (4) Fall 2018
+Game Design & Programming II
+CMPT 415N GAME DESIGN+PROGRAM II B+  4 Spring 2018
+Algorithms Analysis & Design
+CMPT 435L ALGORITHM ANALYSIS+DESIGN A  3 Spring 2018
+Select as many as needed to reach 68 mjr crs:
+MDIA 201L WRITING FOR MEDIA A  3 Spring 2017
+MDIA 411L TOPICS:INTERACT MEDIA/REALITY A  3 Spring 2017
+Still Needed: 1 to 3 Credits in MDIA 101L or 110L or 203L or 210L* or 302N* or 304N or 310L* or 311L* or 312L or 313L or 314L or 316L or 320L or 410L* or 431L or 432L* or ART 431L* or 432L* or GAME 401N
+RELATED FIELD REQUIREMENTS
+Discrete Math
+MATH 205L DISCRETE MATHEMATICS A  4 Spring 2017
+General Physics I
+PHYS 211L GENERAL PHYSICS I B  3 Fall 2017
+Major in Computer Science
+Academic Year:   2017-2018
+GPA:   3.805
+Minimum Major GPA
 A CONCENTRATION IS REQUIRED FOR THIS MAJOR 
-Not yet complete		Game Design and Programming Concentration
-Still Needed:	See Concentration in Game Design & Programming section 
-Not yet complete		COURSE REQUIREMENTS FOR COMPUTER SCIENCE
-Complete		Introduction to Programming
-CMPT 120L	INTRO TO PROGRAMMING	B+ 	4	Fall 2015
-Complete		Software Development I
-CMPT 220L	SOFTWARE DEVELOPMENT I	A 	4	Spring 2016
-Complete		Software Development II
-CMPT 221L	SOFTWARE DEVELOPMENT II	A 	4	Fall 2016
-Complete		Software Systems and Analysis
-CMPT 230L	SOFTWARE SYSTEMS+ANALYSIS	A 	4	Spring 2016
-Complete except for in-progress classes		Data Communications and Networks
-CMPT 306N	DATA COMMUNICATIONS	IP 	(4)	Fall 2018
-Complete		Database Management
-CMPT 308N	DATABASE MANAGEMENT	A 	4	Spring 2017
-Not yet complete		Internetworking
-Still Needed:	1 Class in CMPT 307N*
-Complete except for in-progress classes		System Design
-CMPT 330L	SYSTEM DESIGN	IP 	(4)	Fall 2018
-Not yet complete		Computer Organization and Architecture
-Still Needed:	1 Class in CMPT 422N
-Complete		Algorithm Analysis and Design
-CMPT 435L	ALGORITHM ANALYSIS+DESIGN	A 	3	Spring 2018
-Complete except for in-progress classes		Project I
-CMPT 475N	CS PROJECT	IP 	(3)	Fall 2018
-Complete except for in-progress classes		Project II
-CMPT 476N	CS PROJECT II	IP 	(1)	Fall 2018
-Complete		COURSE REQUIREMENTS IN RELATED FIELDS
-Complete		Introduction to Business & Management
-BUS 100N	INTRO BUS & MGT	A 	3	Spring 2016
-Complete		Introduction to Statistics
-MATH 130L	INTRO-STATIST I	A 	3	Fall 2015
-Complete		Calculus I
-MATH 241L	CALCULUS I	A 	4	Fall 2017
-Complete		Discrete Mathematics
-MATH 205L	DISCRETE MATHEMATICS	A 	4	Spring 2017
-Not yet complete	Concentration in Game Design & Programming	
-Academic Year:	  2017-2018
- 	 
-Not yet complete		COURSE REQUIREMENTS FOR GAME DESIGN CONC
-Not yet complete		CONCENTRATION COURSES
-Still Needed:	Choose from 1 of the following:
-Complete except for in-progress classes		Game Design and Programming I
-CMPT 414N	GAME DESIGN+PROG I	IP 	(4)	Fall 2018
-Complete		Game Design and Programming II
-CMPT 415N	GAME DESIGN+PROGRAM II	B+ 	4	Spring 2018
-Not yet complete		Computer Graphics or Artificial Intel
-	( 1 Class in CMPT 404L or 446N )
-Complete		COURSE REQUIREMENT IN RELATED FIELDS
-Complete		General Physics I
-PHYS 211L	GENERAL PHYSICS I	B 	3	Fall 2017
-Not yet complete	Minor in Creative Writing	
-Academic Year:	  2015-2016	Credits Required:	  19
-GPA:	  3.715	Credits Applied:	  16
-Unmet conditions for this set of requirements:	19 credits are required. You currently have 16,  you still need 3 more credits. 
-Not yet complete		REQUIREMENTS FOR MINOR IN CREATIVE WRITING
-Complete		Intro to Creative Writing
-ENG 280L	CREATIVE WRITING	A 	3	Fall 2016
-Complete		Grammar, Style & Editing
-ENG 218L	GRAMMAR,STYLE,EDITING	A 	3	Spring 2018
-Not yet complete		SELECT FOUR FROM THE FOLLOWING:
-Still Needed:	Choose from 1 of the following:
-Not yet complete		Playwriting Workshop
-	( 1 Class in ENG 310L ) or
-Complete except for in-progress classes		Poetry Workshop
-ENG 311L	POETRY WORKSH	IP 	(3)	Fall 2018
-Not yet complete		Non-Fiction Workshop
-	( 1 Class in ENG 380L* ) or
-Complete		Fiction Workshop
-ENG 382L	WORKSHOP FICTION	B+ 	3	Fall 2017
-Complete		Special Topics (in Writing)
-ENG 393L	ST:CREATIVE WRITING THEORY	A- 	3	Fall 2017
-On:	12-Feb-2018
+Game Design and Programming Concentration
+Still Needed: See Concentration in Game Design & Programming section
+COURSE REQUIREMENTS FOR COMPUTER SCIENCE
+Introduction to Programming
+CMPT 120L INTRO TO PROGRAMMING B+  4 Fall 2015
+Software Development I
+CMPT 220L SOFTWARE DEVELOPMENT I A  4 Spring 2016
+Software Development II
+CMPT 221L SOFTWARE DEVELOPMENT II A  4 Fall 2016
+Software Systems and Analysis
+CMPT 230L SOFTWARE SYSTEMS+ANALYSIS A  4 Spring 2016
+Data Communications and Networks
+CMPT 306N DATA COMMUNICATIONS IP  (4) Fall 2018
+Database Management
+CMPT 308N DATABASE MANAGEMENT A  4 Spring 2017
+Internetworking
+Still Needed: 1 Class in CMPT 307N*
+System Design
+CMPT 330L SYSTEM DESIGN IP  (4) Fall 2018
+Computer Organization and Architecture
+Still Needed: 1 Class in CMPT 422N
+Algorithm Analysis and Design
+CMPT 435L ALGORITHM ANALYSIS+DESIGN A  3 Spring 2018
+Project I
+CMPT 475N CS PROJECT IP  (3) Fall 2018
+Project II
+CMPT 476N CS PROJECT II IP  (1) Fall 2018
+COURSE REQUIREMENTS IN RELATED FIELDS
+Introduction to Business & Management
+BUS 100N INTRO BUS & MGT A  3 Spring 2016
+Introduction to Statistics
+MATH 130L INTRO-STATIST I A  3 Fall 2015
+Calculus I
+MATH 241L CALCULUS I A  4 Fall 2017
+Discrete Mathematics
+MATH 205L DISCRETE MATHEMATICS A  4 Spring 2017
+Concentration in Game Design & Programming
+Academic Year:   2017-2018
+    COURSE REQUIREMENTS FOR GAME DESIGN CONC
+CONCENTRATION COURSES
+Still Needed: Choose from 1 of the following:
+Game Design and Programming I
+CMPT 414N GAME DESIGN+PROG I IP  (4) Fall 2018
+Game Design and Programming II
+CMPT 415N GAME DESIGN+PROGRAM II B+  4 Spring 2018
+Computer Graphics or Artificial Intel
+( 1 Class in CMPT 404L or 446N )
+COURSE REQUIREMENT IN RELATED FIELDS
+General Physics I
+PHYS 211L GENERAL PHYSICS I B  3 Fall 2017
+Minor in Creative Writing
+Academic Year:   2015-2016 Credits Required:   19
+GPA:   3.715 Credits Applied:   16
+Unmet conditions for this set of requirements: 19 credits are required. You currently have 16,  you still need 3 more credits. 
+REQUIREMENTS FOR MINOR IN CREATIVE WRITING
+Intro to Creative Writing
+ENG 280L CREATIVE WRITING A  3 Fall 2016
+Grammar, Style & Editing
+ENG 218L GRAMMAR,STYLE,EDITING A  3 Spring 2018
+SELECT FOUR FROM THE FOLLOWING:
+Still Needed: Choose from 1 of the following:
+Playwriting Workshop
+( 1 Class in ENG 310L ) or
+Poetry Workshop
+ENG 311L POETRY WORKSH IP  (3) Fall 2018
+Non-Fiction Workshop
+( 1 Class in ENG 380L* ) or
+Fiction Workshop
+ENG 382L WORKSHOP FICTION B+  3 Fall 2017
+Special Topics (in Writing)
+ENG 393L ST:CREATIVE WRITING THEORY A-  3 Fall 2017
+On: 12-Feb-2018
 Apply Here :  Auth Sub by Chair/Dean
-Not yet complete		Independent Writing Project
-	( 1 Class in ENG 490L ) or
-Not yet complete		Advanced Screenwriting
-	( 1 Class in ENG 403L )
-Complete		Forms in Writing
-ENG 318L	FORMS IN WRITING	B+ 	1	Spring 2018
+Independent Writing Project
+( 1 Class in ENG 490L ) or
+Advanced Screenwriting
+( 1 Class in ENG 403L )
+Forms in Writing
+ENG 318L FORMS IN WRITING B+  1 Spring 2018
 
-  Electives	
-Credits Applied:	3	Classes Applied:	1
-ENG 116L	COLLEG WRITNG I	T 	3	Fall 2015
+  Electives
+Credits Applied: 3 Classes Applied: 1
+ENG 116L COLLEG WRITNG I T  3 Fall 2015
 Satisfied by:   ENGL1011 - Writing the Literature - UNIVERSITY OF CONNECTICUT
-  In-progress	
-Credits Applied:	19	Classes Applied:	6
-CMPT 306N	DATA COMMUNICATIONS	IP 	4	Fall 2018
-CMPT 330L	SYSTEM DESIGN	IP 	4	Fall 2018
-CMPT 414N	GAME DESIGN+PROG I	IP 	4	Fall 2018
-CMPT 475N	CS PROJECT	IP 	3	Fall 2018
-CMPT 476N	CS PROJECT II	IP 	1	Fall 2018
-ENG 311L	POETRY WORKSH	IP 	3	Fall 2018
+  In-progress
+Credits Applied: 19 Classes Applied: 6
+CMPT 306N DATA COMMUNICATIONS IP  4 Fall 2018
+CMPT 330L SYSTEM DESIGN IP  4 Fall 2018
+CMPT 414N GAME DESIGN+PROG I IP  4 Fall 2018
+CMPT 475N CS PROJECT IP  3 Fall 2018
+CMPT 476N CS PROJECT II IP  1 Fall 2018
+ENG 311L POETRY WORKSH IP  3 Fall 2018
 
  Exceptions
-Type	Description	Date	Block	Enforced
-Apply Here	Auth Sub by Chair/Dean	12-Feb-2018	RA000030	Yes
+Type Description Date Block Enforced
+Apply Here Auth Sub by Chair/Dean 12-Feb-2018 RA000030 Yes
 
 Legend
-	Complete		Complete except for classes in-progress	(T)	Transfer Class
-	Not Complete		Nearly complete - see advisor	@	Any course number
+Complete Complete except for classes in-progress (T) Transfer Class
+Not Complete Nearly complete - see advisor @ Any course number
 
  Disclaimer
-You are encouraged to use this degree audit report as a guide when planning your progress toward completion of the above requirements. Your academic advisor or the Registrar's Office may be contacted for assistance in interpreting this report. This audit is not your academic transcript and it is not official notification of completion of degree or certificate requirements. Please contact the Registrar's Office regarding this degree audit report, your official degree/certificate completion status, or to obtain a copy of your academic transcript.
+You are encouraged to use this degree audit report as a guide when planning your progress toward completion of the above requirements. Your academic advisor or the Registrar''s Office may be contacted for assistance in interpreting this report. This audit is not your academic transcript and it is not official notification of completion of degree or certificate requirements. Please contact the Registrar''s Office regarding this degree audit report, your official degree/certificate completion status, or to obtain a copy of your academic transcript.

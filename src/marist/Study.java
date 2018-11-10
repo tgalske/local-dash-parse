@@ -1,10 +1,10 @@
 package marist;
 
-public class Specialization {
+public class Study {
 
   public String name;
   public int creditsRequired;
   public int creditsApplied;
-  public long GPA;
+  public double GPA;
 
 }
